@@ -1,7 +1,7 @@
-## Interface: 60200
-## Version: 60200.1
+## Interface: 70000
+## Version: 70000.1
 ## Title: |cffc7c7cfv|rMaxScreenshotQuality
-## Notes: Max screenshot quality.
+## Notes: Maximizes the screenshot quality.
 ## Author: Drauer#1706 @battle.net / vforge @github
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
